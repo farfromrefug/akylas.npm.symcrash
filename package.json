@@ -1,0 +1,26 @@
+{
+  "name": "symcrash",
+  "version": "1.0.0",
+  "description": "Tool to automatically desym crash logs for iOS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/farfromrefug/akylas.npm.symcrash.git"
+  },
+  "author": "Akylas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/farfromrefug/akylas.npm.symcrash/issues"
+  },
+  "homepage": "https://github.com/farfromrefug/akylas.npm.symcrash",
+  "dependencies": {
+    "minimist": "^1.2.0",
+    "lodash": "^3.10.1",
+    "async": "^1.4.2",
+    "exec-sync": "^0.1.6",
+    "temp": "^0.8.3"
+  }
+}
